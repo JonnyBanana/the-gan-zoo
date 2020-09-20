@@ -514,3 +514,12 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * β-GAN - [Annealed Generative Adversarial Networks](https://arxiv.org/abs/1705.07505) 
 * Δ-GAN - [Triangle Generative Adversarial Networks](https://arxiv.org/abs/1709.06548) 
 
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
+
